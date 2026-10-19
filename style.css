@@ -46,3 +46,6 @@ summary::after{content:"+";float:right;color:var(--grey)}details[open] summary::
 footer{text-align:center;padding:32px;font-size:13px;color:var(--grey)}
 .reveal{opacity:0;transform:translateY(24px);transition:opacity 1s ease,transform 1s ease}.reveal.in{opacity:1;transform:none}
 @media(prefers-reduced-motion:reduce){.reveal{opacity:1;transform:none;transition:none}.art-sun:before{animation:none}.bgvid{display:none}}
+
+#team .info{color:var(--grey);margin-top:16px;font-size:14px}
+#team .btns{margin-bottom:8px}
